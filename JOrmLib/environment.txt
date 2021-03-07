@@ -1,0 +1,15 @@
+Build with java on linux ubuntu 18.04.1
+
+openjdk version "1.8.0_275"
+OpenJDK Runtime Environment (build 1.8.0_275-8u275-b01-0ubuntu1~18.04-b01)
+OpenJDK 64-Bit Server VM (build 25.275-b01, mixed mode)
+
+Can work on following DBMS
+mysql  Ver 8.0.22 for Linux on x86_64 (MySQL Community Server - GPL)
+sqlite 3
+
+Tools to view mysql
+MySQL workbench 8.0 version 8.0.17 build 14960816 CE (64 bit) Community
+
+includes mysql connector java 8.0.20
+includes sqlite connector sqlite-jdbc-3.27.2.jar
